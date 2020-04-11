@@ -1,0 +1,16 @@
+{
+  "name": "starterpack",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": "https://github.com/regina-yan/starterpack.git",
+  "author": "Regina Yan",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
